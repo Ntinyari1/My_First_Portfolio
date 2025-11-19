@@ -6,7 +6,7 @@ It includes the required HTML pages, a tweets page, navigation structure, and a 
 ---
 
 #  Repository Structure
--My_First_Portfolio/
+My_First_Portfolio/
 │
 ├── html_basic/
 │ ├── base_index.html # Task 0: Basic valid HTML structure
